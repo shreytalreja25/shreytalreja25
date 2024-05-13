@@ -7,7 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/shreytalreja" target="blank"><img src="https://img.shields.io/twitter/follow/shreytalreja?logo=twitter&style=for-the-badge" alt="shreytalreja" /></a> </p>
 
-<iframe src="https://gifer.com/embed/LCPT" width=480 height=360.000 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com">via GIFER</a></p>
 
 - 🔭 I’m currently working on [creating a chatbot for UNSW](https://github.com/shreytalreja25/unswbot/)
 
