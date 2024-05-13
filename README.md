@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreytalreja25&label=Profile%20views&color=0e75b6&style=flat" alt="shreytalreja25" /> </p>
 
-![Dynamic Light Circle](https://raw.githubusercontent.com/shreytalreja25/shreytalreja25/dae2ebc0a518f25cf5ea7c577c9460af338053d6/LCPT.gif)
+<img src="https://raw.githubusercontent.com/shreytalreja25/shreytalreja25/dae2ebc0a518f25cf5ea7c577c9460af338053d6/LCPT.gif" width="400" height="300" alt="Dynamic Light Circle">
 
 <p align="left"> <a href="https://twitter.com/shreytalreja" target="blank"><img src="https://img.shields.io/twitter/follow/shreytalreja?logo=twitter&style=for-the-badge" alt="shreytalreja" /></a> </p>
 
