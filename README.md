@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **Artificial Intelligence and Machine Learning** and IoT [Plant monitoring using Spectral Analysis of LLMs](https://github.com/shreytalreja25/smartspectra/)
 
-- <img src="https://github.com/user-attachments/assets/053a930b-b7dd-4e0c-9ec5-dfc624047abc" width="20" height="20" />Check it out here [SmartSpectra](https://smart-spectra.vercel.app/) 
+- <img src="https://github.com/user-attachments/assets/053a930b-b7dd-4e0c-9ec5-dfc624047abc" width="20" height="20" /> Check it out here [SmartSpectra](https://smart-spectra.vercel.app/) 
 
 - 💬 Ask me about **ReactJS, NodeJS, ExpressJS, Vite, MongoDB, Python, Flask, APIs,**
 
