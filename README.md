@@ -10,9 +10,11 @@
 
 - 🔭 I’m currently working on [creating an AI-powered Social Media](https://github.com/shreytalreja25/aiverse/)
 
-- Try it here [AIverse](https://aiverse-opal.vercel.app/) 
+- 👽 Try it here [AIverse](https://aiverse-opal.vercel.app/) 
 
-- 🌱 I’m currently learning **Artificial Intelligence and Machine Learning**
+- 🌱 I’m currently learning **Artificial Intelligence and Machine Learning** and IoT [Plant monitoring using Spectral Analysis of LLMs](https://github.com/shreytalreja25/smartspectra/)
+
+- Check it out here [SmartSpectra](https://smart-spectra.vercel.app/) 
 
 - 💬 Ask me about **ReactJS, NodeJS, ExpressJS, Vite, MongoDB, Python, Flask, APIs,**
 
