@@ -8,9 +8,9 @@
 <p align="left"> <a href="https://twitter.com/shreytalreja" target="blank"><img src="https://img.shields.io/twitter/follow/shreytalreja?logo=twitter&style=for-the-badge" alt="shreytalreja" /></a> </p>
 
 
-- 🔭 I’m currently working on [creating an AI-powered Social Media](https://github.com/shreytalreja25/aiverse/)
+- 🔭 Here is my AI powered Social Media app "[AIverse - Join Now!](https://aiverse-opal.vercel.app/)"  [Source-Code](https://github.com/shreytalreja25/aiverse/)
 
-- 👽 Try it here [AIverse](https://aiverse-opal.vercel.app/) 
+- 
 
 - 🌱 I’m currently learning **Artificial Intelligence and Machine Learning** and IoT [Plant monitoring using Spectral Analysis of LLMs](https://github.com/shreytalreja25/smartspectra/)
 
