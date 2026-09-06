@@ -2,7 +2,7 @@
 
   <!-- Dynamic Animated Typing Banner -->
   <a href="https://github.com/shreytalreja25">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=680&lines=Hi%2C+I'm+Shrey+Talreja+%F0%9F%91%8B;Technologist+%26+AI-Native+Engineer;Full-Stack+Architect+(React+%E2%80%A2+TypeScript+%E2%80%A2+Python);Building+Intelligent+Systems+%26+Creative+Computing" alt="Typing SVG Banner" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2600&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Hi%2C%20I%27m%20Shrey%20Talreja%20%F0%9F%91%8B;Technologist%20%26%20AI%20Engineer;Full-Stack%20Architect;AI-Native%20Systems%20Builder;Creative%20Computing%20%26%203D%20Tech" alt="Typing SVG Banner" />
   </a>
 
   <p align="center">
@@ -161,12 +161,10 @@ I am a **Technologist, AI-Native Full-Stack Engineer, and Systems Architect**. I
 
   <br />
 
-  <!-- Contribution Grid Snake Animation -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Grid Snake" src="github-contribution-grid-snake-dark.svg">
-  </picture>
+  <!-- Latest Contribution Graph Animation (Generated with Platane/snk) -->
+  <p align="center">
+    <img src="github-user-contribution.svg" alt="GitHub Contribution Grid Snake Animation" width="100%" />
+  </p>
 </div>
 
 ---
