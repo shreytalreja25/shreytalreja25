@@ -50,20 +50,41 @@ I am a **Technologist, AI-Native Full-Stack Engineer, and Systems Architect**. I
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="left">🧪 AuraGrade & AI Assessment Pipelines</h3>
-      <p><strong>Autonomous Human-in-the-Loop Evaluation Platform</strong></p>
-      <p>Architected an automated grading & multi-modal evaluation system featuring prompt-tracking frameworks, rubric distillation, and deterministic scoring heuristics for complex codebases and contextual reasoning.</p>
+      <h3 align="left">🛡️ SentinelLake</h3>
+      <p><strong>Autonomous Multi-Agent Lakehouse Audit Engine</strong></p>
+      <p>Multi-agent audit engine combining structured lakehouse data (Databricks Delta Lake) with contract search (hybrid pgvector RRF), orchestrated as a LangGraph state machine with durable human-in-the-loop approval gates & AST-validated SQL generation.</p>
       <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <a href="https://github.com/shreytalreja25/Sentinel-Lake" target="_blank"><img src="https://img.shields.io/badge/Repository-shreytalreja25%2FSentinel--Lake-181717?style=flat-square&logo=github" alt="Repo" /></a>
+        <a href="https://sentinel-lake-five.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Live%20Demo-sentinel--lake--five.vercel.app-000000?style=flat-square&logo=vercel" alt="Live" /></a>
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/LangGraph-2B2D42?style=flat-square" alt="LangGraph" />
+        <img src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white" alt="Databricks" />
+        <img src="https://img.shields.io/badge/pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="pgvector" />
         <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
-        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
-        <img src="https://img.shields.io/badge/Multi--Agent%20Evals-6366F1?style=flat-square" alt="Multi-Agent" />
       </p>
     </td>
     <td width="50%" valign="top">
+      <h3 align="left">🧪 AI Assessment Platform</h3>
+      <p><strong>Enterprise Multimodal Evaluation & Grading System</strong></p>
+      <p>Enterprise multimodal evaluation platform with Human-in-the-Loop (HITL) oversight, role-based audit logging, rubric distillation, and automated consistency scoring across text, code, audio, and handwritten submissions.</p>
+      <p>
+        <a href="https://github.com/shreytalreja25/capstone-project-26t1-9900-m18d-almond" target="_blank"><img src="https://img.shields.io/badge/Repository-capstone--project-181717?style=flat-square&logo=github" alt="Repo" /></a>
+        <a href="https://ai-assessment-capstone.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Live%20Platform-ai--assessment--capstone-000000?style=flat-square&logo=vercel" alt="Live" /></a>
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+        <img src="https://img.shields.io/badge/React%2019-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React 19" />
+        <img src="https://img.shields.io/badge/HITL%20Governance-6366F1?style=flat-square" alt="HITL" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <h3 align="left">🌱 SmartSpectra</h3>
-      <p><strong>IoT-Driven Spectral Sensing & Inference Pipeline</strong></p>
-      <p>Engineered an end-to-end bio-computational monitoring system pairing narrow-band spectral sensors with edge machine learning models for real-time plant diagnostics and continuous spectral anomaly detection.</p>
+      <p><strong>IoT Spectral Sensing & Cloud Multimodal Analytics</strong></p>
+      <p>IoT-to-cloud analytics ecosystem integrating narrow-band spectral sensors with edge machine learning models and multimodal LLM reasoning for real-time biological condition monitoring and anomaly detection.</p>
       <p>
         <a href="https://github.com/shreytalreja25/smartspectra" target="_blank"><img src="https://img.shields.io/badge/Repository-shreytalreja25%2Fsmartspectra-181717?style=flat-square&logo=github" alt="Repo" /></a>
         <a href="https://smart-spectra.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Live%20Demo-smart--spectra.vercel.app-000000?style=flat-square&logo=vercel" alt="Live" /></a>
@@ -71,15 +92,14 @@ I am a **Technologist, AI-Native Full-Stack Engineer, and Systems Architect**. I
       <p>
         <img src="https://img.shields.io/badge/IoT%20%26%20Edge%20ML-0284C7?style=flat-square" alt="IoT" />
         <img src="https://img.shields.io/badge/Embedded%20C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
+        <img src="https://img.shields.io/badge/Gemini%20LLM-8E75FF?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini" />
         <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
       </p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3 align="left">🌐 AIverse</h3>
-      <p><strong>AI-Native Generative Social Platform</strong></p>
-      <p>Scalable web application incorporating generative intelligence feeds, automated content synthesis, and real-time reactive UI architecture.</p>
+      <p><strong>AI-Native Generative Social & Persona Platform</strong></p>
+      <p>Autonomous multi-agent interaction platform leveraging LLM orchestration, persona memory state management, and real-time reactive UI architecture with ComfyUI image synthesis pipelines.</p>
       <p>
         <a href="https://github.com/shreytalreja25/aiverse" target="_blank"><img src="https://img.shields.io/badge/Repository-shreytalreja25%2Faiverse-181717?style=flat-square&logo=github" alt="Repo" /></a>
         <a href="https://aiverse-opal.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Live%20Platform-aiverse--opal.vercel.app-000000?style=flat-square&logo=vercel" alt="Live" /></a>
@@ -88,17 +108,7 @@ I am a **Technologist, AI-Native Full-Stack Engineer, and Systems Architect**. I
         <img src="https://img.shields.io/badge/React%2019-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node" />
         <img src="https://img.shields.io/badge/MongoDB%20Atlas-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="left">🕹️ Unreal Engine 5 Multiplayer Systems</h3>
-      <p><strong>Real-Time Graphics & Game Mechanics</strong></p>
-      <p>Developed high-performance interactive multiplayer simulations utilizing Unreal Engine 5, C++ gameplay frameworks, Lumen dynamic lighting, and authoritative server-client network replication.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Unreal%20Engine%205-0E1128?style=flat-square&logo=unrealengine&logoColor=white" alt="UE5" />
-        <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
-        <img src="https://img.shields.io/badge/Multiplayer%20Netcode-8B5CF6?style=flat-square" alt="Netcode" />
-        <img src="https://img.shields.io/badge/HLSL%20%2F%20Shaders-2563EB?style=flat-square" alt="Shaders" />
+        <img src="https://img.shields.io/badge/Multi--Agent-6366F1?style=flat-square" alt="Multi-Agent" />
       </p>
     </td>
   </tr>
@@ -124,11 +134,11 @@ I am a **Technologist, AI-Native Full-Stack Engineer, and Systems Architect**. I
   <br />
 
   - **Languages:** Python, TypeScript, JavaScript (ESNext), Modern C++ (17/20), C#, SQL, Bash, PowerShell.
-  - **AI / LLM Engineering:** Distillation & Fine-Tuning, Prompt Tracking & Evals, LangChain, LlamaIndex, RAG Pipelines, Vector Search (Chroma, Pinecone), Multi-Agent Swarms.
+  - **AI / LLM Engineering:** Distillation & Fine-Tuning, Prompt Tracking & Evals, LangChain, LlamaIndex, LangGraph, RAG Pipelines, Vector Search (pgvector, Chroma, Pinecone), Multi-Agent Swarms.
   - **Front-End Ecosystem:** React 19, Next.js (App Router), Tailwind CSS, shadcn/ui, Radix UI, Framer Motion, Three.js, WebGL.
   - **Back-End & Distributed Systems:** FastAPI, Express.js, NestJS, ASP.NET Core, GraphQL, REST, WebSockets, gRPC, Celery / Background Workers.
-  - **Databases & Caching:** PostgreSQL, MongoDB Atlas, Redis, Supabase, MySQL, Prisma ORM, Drizzle.
-  - **Cloud, DevOps & Observability:** Docker, Kubernetes, AWS (Lambda, S3, ECS, EC2), Google Cloud Run, GitHub Actions CI/CD, Nginx, Prometheus, Grafana.
+  - **Databases & Caching:** PostgreSQL, Databricks Delta Lake, MongoDB Atlas, Redis, Supabase, MySQL, Prisma ORM, Drizzle.
+  - **Cloud, DevOps & Observability:** Docker, Kubernetes, AWS (Lambda, S3, ECS, EC2), Google Cloud Run, GitHub Actions CI/CD, Nginx, Prometheus, Grafana, Arize Phoenix.
   - **Creative & Simulation:** Unreal Engine 5 (Blueprints + C++ Core), Shader Graph, Niagara VFX, HLSL, Blender asset pipeline.
 </details>
 
